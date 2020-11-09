@@ -7,7 +7,7 @@ function Search(props) {
       <div className="card-body">
         <form>
           <div className="form-group">
-            <label htmlFor="query">Filter</label>
+            <label htmlFor="query">Filter by Last Name</label>
             <input
               type="text"
               className="form-control"
@@ -21,5 +21,6 @@ function Search(props) {
     </div>
   );
 }
+
 
 export default Search;
