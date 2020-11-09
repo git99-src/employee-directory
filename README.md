@@ -52,6 +52,7 @@ The app is deployed on Github.
 
 ## Contributing
 Please fork the repository in Github with permission.  
+Contact me at https://github.com/git99-src if you have any questions.
 
 
 --
